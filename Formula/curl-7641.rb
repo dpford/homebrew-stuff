@@ -1,4 +1,4 @@
-class Curl < Formula
+class Curl7641 < Formula
   desc "Get a file from an HTTP, HTTPS or FTP server"
   homepage "https://curl.haxx.se/"
   url "https://curl.haxx.se/download/curl-7.64.1.tar.bz2"
